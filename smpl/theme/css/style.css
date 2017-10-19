@@ -1,0 +1,22 @@
+.left{
+    font-size: 50px;
+    font-color:red;
+}
+
+
+.box{
+    height: 400px;
+}
+
+.item1{
+    float: left;
+}
+
+#item2{
+    float: right;
+}
+.style{
+    font-size: 40px;
+    word-wrap:break-word;
+    line-height: 50px;
+}
